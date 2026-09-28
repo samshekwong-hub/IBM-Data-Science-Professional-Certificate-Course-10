@@ -1,0 +1,13 @@
+1. Executive summary
+2. Introduction
+3. Methodologies
+    -Data wrangling and data collection
+    -EDA and interactive visual analytics
+4. Result
+    -Predictive analysis
+        *Visualization results
+        *SQL results
+    -Folium map results
+    -Plotly Dashboard results
+    -Classification (ML) results
+5. Conculsions

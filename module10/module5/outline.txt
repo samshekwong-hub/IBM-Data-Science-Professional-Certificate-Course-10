@@ -1,0 +1,30 @@
+1. Title
+    -Project name
+    -Name
+    -Date
+2. Table of Content
+3. Introduction (Executive summary)
+    -Executive summary
+        *Considered a stand-alone doc
+        *Briefly explain the details
+    -Introduction
+        *Nature of analysis
+        *State problem & questions for analysis
+4. Methodology
+    -Research methods 
+        *Outline plans for collected data
+    -Data sources (how you collect data & relevance to project)
+5. Result
+    -Descriptive statistics
+        *How it was organized & analyzed
+    -Illustrative graphics
+        *Make sure charts & graphs are not too small, and are clearly labeled
+        *Use the data only as supporting evidence
+        *Share only one point from each chart
+        *Eliminate data that does not support key message
+    -Important things
+        *Forming key messages
+        *Building stories around the story
+6. Conclusion & QA
+    -Engage audiences --> findings
+    -Appendix --> information didn't fit in the report
